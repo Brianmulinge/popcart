@@ -15,7 +15,7 @@ function Banner() {
           </button>
         </div>
         <div className="">
-          <Image className="h-40 3-40k" src={pic} />
+          <Image className="h-40 3-40k" alt="banner image" src={pic} />
         </div>
       </div>
     </div>

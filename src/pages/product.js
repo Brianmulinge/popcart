@@ -8,7 +8,7 @@ function product() {
       <Header />
       <div className="flex justify-center">
         <div className="">
-          <Image src="" />
+          <Image src="" alt="productimage" />
         </div>
       </div>
     </section>
