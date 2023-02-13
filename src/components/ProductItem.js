@@ -9,7 +9,7 @@ function ProductItem() {
       <Image className="rounded-t-lg" alt="productimage" src={pic} />
       <div className="p-4">
         <h1 className="font-semibold text-lg">
-          Men`&apos;`s Fashion Popcart Tshirt
+          Men&apos;s Fashion Popcart Tshirt
         </h1>
         <h1 className="text-sm font-semibold">The perfect tshirt design</h1>
         <StarIcon className="h-4 w-4" />
