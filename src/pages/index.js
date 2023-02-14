@@ -2,7 +2,7 @@ import Announce from "../components/Announce";
 import Header from "../components/Header";
 import Head from "next/head";
 import Banner from "../components/Banner";
-import ProductItem from "@/components/ProductItem";
+import ProductItem from "../components/ProductItem";
 import Footer from "../components/Footer";
 
 export default function Home() {
