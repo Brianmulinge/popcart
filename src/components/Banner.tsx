@@ -14,9 +14,7 @@ function Banner() {
             Shop Now
           </button>
         </div>
-        <div className="">
-          <Image className="h-40 3-40k" alt="banner image" src={pic} />
-        </div>
+        
       </div>
     </div>
   );

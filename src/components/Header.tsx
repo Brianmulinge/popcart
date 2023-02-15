@@ -16,7 +16,7 @@ function Header() {
       <div className="flex space-x-4">
         <div className="flex items-center font-semibold cursor-pointer">
           <UserIcon className="h-8 w-8" />
-          <h1 className="text-base">Login</h1>
+          <h1 className="text-base">Account</h1>
         </div>
         <div className="flex items-center font-semibold cursor-pointer">
           <ShoppingBagIcon className="h-8 w-8" />
